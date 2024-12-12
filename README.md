@@ -5,3 +5,4 @@ My own azure resume, following ACG video
 
 -Frontend folder contains the website.
 -main.js contains vistor counter code.
+
